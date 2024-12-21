@@ -40,3 +40,5 @@ Copyrights (c) 2018 f1x.studio (Michal Szwaj)
  - [Protocol buffers](https://developers.google.com/protocol-buffers/)
  - [OpenSSL](https://www.openssl.org/)
  - [Google test framework](https://github.com/google/googletest)
+
+### Forked from [opencardev/aasdk](https://github.com/opencardev/aasdk)
